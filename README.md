@@ -45,5 +45,4 @@ Chosen because:
 
 ---
 
-## 📂 Project Structure
 
