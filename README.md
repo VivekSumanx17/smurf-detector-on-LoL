@@ -5,6 +5,9 @@ This project predicts team skill tiers (Low / Medium / High) from early-game sta
 
 ---
 
+# Dataset
+      https://www.kaggle.com/datasets/keerthivasankannan/lol-dataset
+
 # Features
 
 # Machine Learning Pipeline
@@ -44,5 +47,6 @@ Chosen because:
 - works well with small/medium datasets  
 
 ---
+
 
 
